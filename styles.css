@@ -14,7 +14,8 @@ h1{
   flex-direction: column;
   align-items: center;
   background: linear-gradient(#616AE8, #61BAE8);
-  background-image: cover;
+  background-size: cover;
+  background-repeat:no-repeat;
   font-family: sans-serif;
   color:#fff;
 }
